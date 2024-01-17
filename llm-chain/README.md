@@ -21,7 +21,7 @@ pip install notebook
 
 Start notebook locally ``` jupyter notebook ```
 
-Refer to [Sample notebook](notebook.md) for getting started.
+Refer to [Sample notebook](notebook.ipynb) for getting started.
 
 ## Notes
 
