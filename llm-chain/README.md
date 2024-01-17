@@ -32,3 +32,9 @@ pip install --upgrade langchain
 
 pip install --upgrade notebook
 ```
+
+## References
+
+https://python.langchain.com/docs/get_started/quickstart
+
+https://github.com/jmorganca/ollama?tab=readme-ov-file
