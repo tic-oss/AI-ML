@@ -1,4 +1,4 @@
-# ChainLang
+# File upload ChatBot
  simple chatbot based on LangChain and OpenAI API that can be trained with PDF files.
 
 This chatbot is trained with PDF files which the user uploads.
