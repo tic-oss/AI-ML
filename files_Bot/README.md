@@ -29,13 +29,4 @@ Run the chatbot:
 
 Open the url logged on the terminal and upload your file and start asking the questions.
 
-### Saving previous conversations
-
-We can save our previous conversations into the MongoDB. make sure you have MongoDB instance and replace these with your data.
-```
-client = pymongo.MongoClient("your_mongodb_uri")
-db = client["your_database_name"]
-collection = db["your_collection_name"]
-
-```
 
